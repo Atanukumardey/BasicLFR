@@ -13,7 +13,7 @@ A basic line follower robot that ca handle `T-section` and any angle larger then
 
 ## Circuit Diagram
 
-![circuit_diagram](images\circuit_diagram.png)  
+![circuit_diagram](images/circuit_diagram.png)  
 
 ## Unit Test on [Youtube](https://youtu.be/54BsUsKn69U)
 [![DemoVideo](https://www.youtube.com/vi/54BsUsKn69U/0.jpg)](https://www.youtube.com/watch?v=54BsUsKn69U)
