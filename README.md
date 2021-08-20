@@ -23,7 +23,6 @@ A basic line follower robot that ca handle `T-section` and any angle larger then
 ![photo](images/IMG_20200418_225427_1.jpg)
 
 #### Assambled by [Falgon_Sen_Apu](https://www.linkedin.com/in/falgoon-sen-apu-188a63168)
-<br/><br/>
 ***
 ## Unit Test on [Youtube](https://www.youtube.com/watch?v=54BsUsKn69U)
 [![DemoVideo](https://img.youtube.com/vi/54BsUsKn69U/0.jpg)](https://www.youtube.com/watch?v=54BsUsKn69U)
