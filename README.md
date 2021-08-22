@@ -10,3 +10,10 @@ A basic line follower robot that ca handle `T-section` and any angle larger then
 4. ### 2 12V DC motor. I have used micrometal gear motor for     better performance.
 5. ### 11.1V 3 Cell LiPo battery 2200mAh
 
+
+
+***
+
+## Circuit Diagram
+
+![circuit_diagram](images/circuit_diagram.png)  
