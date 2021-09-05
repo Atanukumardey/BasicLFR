@@ -1,6 +1,10 @@
 # BasicLFR
 ***
-A basic line follower robot that ca handle `T-section` and any angle larger then `15 degree` also `Traingluar loop`.
+A basic line follower robot that can handle 
+* `T-section`. 
+* Any angle larger then `15 degree`.
+* `Traingluar loop`.
+* `Circular path`.
 
 ## Components
 
